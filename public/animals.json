@@ -1,0 +1,226 @@
+{
+  "Anta": {
+    "Desc": "Maior mamífero terrestre da América do Sul; vive em áreas alagadas e florestas.",
+    "Nome_cientifico": "Tapirus terrestris"
+  },
+  "Arara-azul": {
+    "Desc": "Grande ave azul de bioma brasileiro; ameaçada de extinção.",
+    "Nome_cientifico": "Anodorhynchus hyacinthinus"
+  },
+  "Abelha": {
+    "Desc": "Inseto social polinizador fundamental para ecossistemas.",
+    "Nome_cientifico": "Apis mellifera"
+  },
+  "Alce": {
+    "Desc": "Maior cervo do mundo, encontrado em regiões frias do hemisfério norte.",
+    "Nome_cientifico": "Alces alces"
+  },
+  "Baleia-azul": {
+    "Desc": "Maior animal já existente, vive em todos os oceanos.",
+    "Nome_cientifico": "Balaenoptera musculus"
+  },
+  "Boto-cor-de-rosa": {
+    "Desc": "Golfinho de água doce encontrado na Amazônia.",
+    "Nome_cientifico": "Inia geoffrensis"
+  },
+  "Bisão": {
+    "Desc": "Grande herbívoro típico da América do Norte.",
+    "Nome_cientifico": "Bison bison"
+  },
+  "Beija-flor": {
+    "Desc": "Pássaro capaz de pairar no ar; alimenta-se de néctar.",
+    "Nome_cientifico": "Trochilidae"
+  },
+  "Bicho-preguiça": {
+    "Desc": "Mamífero arborícola de movimentos lentos.",
+    "Nome_cientifico": "Bradypus variegatus"
+  },
+  "Cachorro-do-mato": {
+    "Desc": "Canídeo sul-americano de hábitos onívoros.",
+    "Nome_cientifico": "Cerdocyon thous"
+  },
+  "Camelo": {
+    "Desc": "Mamífero adaptado a desertos; armazena gordura na corcova.",
+    "Nome_cientifico": "Camelus dromedarius"
+  },
+  "Capivara": {
+    "Desc": "Maior roedor do mundo; vive em grupos próximo a rios.",
+    "Nome_cientifico": "Hydrochoerus hydrochaeris"
+  },
+  "Cascavel": {
+    "Desc": "Cobra venenosa com guizo na ponta da cauda.",
+    "Nome_cientifico": "Crotalus durissus"
+  },
+  "Canguru": {
+    "Desc": "Marsupial australiano com grandes pernas para saltos.",
+    "Nome_cientifico": "Macropus rufus"
+  },
+  "Coala": {
+    "Desc": "Marsupial que se alimenta quase exclusivamente de eucalipto.",
+    "Nome_cientifico": "Phascolarctos cinereus"
+  },
+  "Chimpanzé": {
+    "Desc": "Primata muito inteligente, geneticamente próximo ao humano.",
+    "Nome_cientifico": "Pan troglodytes"
+  },
+  "Cervo": {
+    "Desc": "Ungulado com galhadas ramificadas nos machos.",
+    "Nome_cientifico": "Cervus elaphus"
+  },
+  "Dromedário": {
+    "Desc": "Camelo de uma corcova, muito usado em regiões áridas.",
+    "Nome_cientifico": "Camelus dromedarius"
+  },
+  "Dragão-de-komodo": {
+    "Desc": "Maior lagarto vivo; predador forte e venenoso.",
+    "Nome_cientifico": "Varanus komodoensis"
+  },
+  "Doninha": {
+    "Desc": "Pequeno mamífero carnívoro ágil e predador.",
+    "Nome_cientifico": "Mustela nivalis"
+  },
+  "Elefante-africano": {
+    "Desc": "Maior mamífero terrestre; possui grandes presas e tromba.",
+    "Nome_cientifico": "Loxodonta africana"
+  },
+  "Ema": {
+    "Desc": "Ave corredora sul-americana, não voadora.",
+    "Nome_cientifico": "Rhea americana"
+  },
+  "Esquilo": {
+    "Desc": "Roedor ágil que vive em árvores e armazena alimentos.",
+    "Nome_cientifico": "Sciurus vulgaris"
+  },
+  "Falcão-peregrino": {
+    "Desc": "Ave de rapina mais rápida do mundo em mergulho.",
+    "Nome_cientifico": "Falco peregrinus"
+  },
+  "Flamingo": {
+    "Desc": "Ave rosada de pernas longas que se alimenta filtrando água.",
+    "Nome_cientifico": "Phoenicopterus roseus"
+  },
+  "Foca": {
+    "Desc": "Mamífero marinho adaptado ao frio e à vida aquática.",
+    "Nome_cientifico": "Phocidae"
+  },
+  "Gato-do-mato": {
+    "Desc": "Felino selvagem encontrado nas Américas.",
+    "Nome_cientifico": "Leopardus tigrinus"
+  },
+  "Gorila": {
+    "Desc": "Maior primata; vive em grupos e é herbívoro.",
+    "Nome_cientifico": "Gorilla gorilla"
+  },
+  "Girafa": {
+    "Desc": "Animal mais alto do mundo, com longo pescoço.",
+    "Nome_cientifico": "Giraffa camelopardalis"
+  },
+  "Gavião": {
+    "Desc": "Ave de rapina de visão extremamente aguçada.",
+    "Nome_cientifico": "Accipitridae"
+  },
+  "Hiena": {
+    "Desc": "Carnívoro africano conhecido por vocalizações semelhantes a risos.",
+    "Nome_cientifico": "Crocuta crocuta"
+  },
+  "Hipopótamo": {
+    "Desc": "Grande herbívoro semiaquático africano.",
+    "Nome_cientifico": "Hippopotamus amphibius"
+  },
+  "Harpia": {
+    "Desc": "Maior águia das Américas; predadora de grande porte.",
+    "Nome_cientifico": "Harpia harpyja"
+  },
+  "Iaque": {
+    "Desc": "Boi adaptado ao frio do Himalaia.",
+    "Nome_cientifico": "Bos grunniens"
+  },
+  "Iguana-verde": {
+    "Desc": "Grande lagarto tropical herbívoro.",
+    "Nome_cientifico": "Iguana iguana"
+  },
+  "Impala": {
+    "Desc": "Antílope africano famoso por saltos altos.",
+    "Nome_cientifico": "Aepyceros melampus"
+  },
+  "Jabuti": {
+    "Desc": "Quelônio terrestre de vida longa.",
+    "Nome_cientifico": "Chelonoidis carbonarius"
+  },
+  "Jacaré-açu": {
+    "Desc": "Maior jacaré da Amazônia.",
+    "Nome_cientifico": "Melanosuchus niger"
+  },
+  "Jaguatirica": {
+    "Desc": "Felino selvagem noturno das Américas.",
+    "Nome_cientifico": "Leopardus pardalis"
+  },
+  "Leão": {
+    "Desc": "Grande felino africano que vive em alcateias.",
+    "Nome_cientifico": "Panthera leo"
+  },
+  "Leopardo": {
+    "Desc": "Felino ágil e excelente escalador.",
+    "Nome_cientifico": "Panthera pardus"
+  },
+  "Lobo-guará": {
+    "Desc": "Canídeo alto de pernas longas, típico do Cerrado.",
+    "Nome_cientifico": "Chrysocyon brachyurus"
+  },
+  "Macaco-prego": {
+    "Desc": "Primata inteligente que utiliza ferramentas.",
+    "Nome_cientifico": "Sapajus apella"
+  },
+  "Morsa": {
+    "Desc": "Mamífero marinho com grandes presas e corpo robusto.",
+    "Nome_cientifico": "Odobenus rosmarus"
+  },
+  "Mico-leão-dourado": {
+    "Desc": "Primata brasileiro ameaçado, famoso pela pelagem dourada.",
+    "Nome_cientifico": "Leontopithecus rosalia"
+  },
+  "Naja": {
+    "Desc": "Cobra venenosa famosa por expandir o capelo.",
+    "Nome_cientifico": "Naja naja"
+  },
+  "Onça-pintada": {
+    "Desc": "Maior felino das Américas; excelente nadadora.",
+    "Nome_cientifico": "Panthera onca"
+  },
+  "Pinguim-imperador": {
+    "Desc": "Maior espécie de pinguim, vive na Antártida.",
+    "Nome_cientifico": "Aptenodytes forsteri"
+  },
+  "Panda-gigante": {
+    "Desc": "Ursídeo asiático que se alimenta principalmente de bambu.",
+    "Nome_cientifico": "Ailuropoda melanoleuca"
+  },
+  "Quati": {
+    "Desc": "Mamífero onívoro, parente do guaxinim, muito ágil.",
+    "Nome_cientifico": "Nasua nasua"
+  },
+  "Rinoceronte-branco": {
+    "Desc": "Grande mamífero com chifre queratinoso.",
+    "Nome_cientifico": "Ceratotherium simum"
+  },
+  "Suricato": {
+    "Desc": "Pequeno mamífero social do deserto do Kalahari.",
+    "Nome_cientifico": "Suricata suricatta"
+  },
+  "Tartaruga-verde": {
+    "Desc": "Grande tartaruga marinha migratória.",
+    "Nome_cientifico": "Chelonia mydas"
+  },
+  "Urso-polar": {
+    "Desc": "Maior carnívoro terrestre; vive no Ártico.",
+    "Nome_cientifico": "Ursus maritimus"
+  },
+  "Veado-catingueiro": {
+    "Desc": "Pequeno cervídeo brasileiro típico da Caatinga.",
+    "Nome_cientifico": "Mazama gouazoubira"
+  },
+  "Zebra": {
+    "Desc": "Equino africano de listras pretas e brancas.",
+    "Nome_cientifico": "Equus quagga"
+  }
+}
