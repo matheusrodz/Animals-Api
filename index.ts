@@ -15,9 +15,8 @@ server.get('/animal', async (request, reply) => {
   reply.send({ animal: animal, Científico: animalData.Nome_cientifico, Descrição: animalData.Desc })
 })
 server.get('/animal/lista', async (request, reply) => {
-  
-  reply.send({ animals })
-  
+  const nomes = Object.keys(animals)
+  reply.send({ animais: nomes })
 })
 server.get('/animal/:nome', async (request, reply) => {
   const { nome } = request.params as { nome: string };
