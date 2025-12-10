@@ -28,7 +28,7 @@ server.get('/animal/:nome', async (request, reply) => {
     reply.send({ error: 'Animal não encontrado'})
   }
 })
-const port = Number(process.env.PORT) || 3000; // 3000 só para rodar local
+const port = Number(process.env.PORT) || 0000; // 3000 só para rodar local
 const host = '0.0.0.0';
 
 app.listen({ port, host });
